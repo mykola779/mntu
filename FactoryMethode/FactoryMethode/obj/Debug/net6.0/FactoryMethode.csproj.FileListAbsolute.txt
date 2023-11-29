@@ -1,0 +1,14 @@
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\bin\Debug\net6.0\FactoryMethode.exe
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\bin\Debug\net6.0\FactoryMethode.deps.json
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\bin\Debug\net6.0\FactoryMethode.runtimeconfig.json
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\bin\Debug\net6.0\FactoryMethode.dll
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\bin\Debug\net6.0\FactoryMethode.pdb
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\obj\Debug\net6.0\FactoryMethode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\obj\Debug\net6.0\FactoryMethode.AssemblyInfoInputs.cache
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\obj\Debug\net6.0\FactoryMethode.AssemblyInfo.cs
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\obj\Debug\net6.0\FactoryMethode.csproj.CoreCompileInputs.cache
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\obj\Debug\net6.0\FactoryMethode.dll
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\obj\Debug\net6.0\refint\FactoryMethode.dll
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\obj\Debug\net6.0\FactoryMethode.pdb
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\obj\Debug\net6.0\FactoryMethode.genruntimeconfig.cache
+C:\Users\kolya\OneDrive\Рабочий стол\МНТУ\OPI\mntu\FactoryMethode\FactoryMethode\obj\Debug\net6.0\ref\FactoryMethode.dll
